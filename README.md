@@ -1,4 +1,3 @@
-# 3mtt-html-css-js-calculator-project
 # Calculator App
 
 ## Objective
